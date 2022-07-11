@@ -1,0 +1,9 @@
+{
+  "ConnectionString": {
+    "FStore": "Server=(local);uid=sa;pwd=123456;database=FStore"
+  },
+  "DefaultAccounts": {
+    "Email": "admin@fstore.com",
+    "Password": "admin@@"
+  }
+}
